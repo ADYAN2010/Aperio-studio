@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX idx_site_content_section_key ON public.site_content (section, content_key);
